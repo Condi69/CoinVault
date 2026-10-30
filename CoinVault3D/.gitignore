@@ -1,0 +1,5 @@
+# Godot generated cache
+.godot/
+
+# Local export credentials
+export_credentials.cfg
